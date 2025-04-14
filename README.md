@@ -14,7 +14,7 @@
 
 ### 🛠️ Tecnologías que uso
 
-![My Skills](https://skillicons.dev/icons?i=ts,js,react,reactnative,nodejs,python,docker,mysql,mongodb,linux,git,vscode,CUDA,Golang,C++)
+![My Skills](https://skillicons.dev/icons?i=ts,js,react,nodejs,python,docker,mysql,mongodb,linux,git,vscode,CUDA,Golang,C++)
 
 ---
 
