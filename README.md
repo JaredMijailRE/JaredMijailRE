@@ -19,10 +19,10 @@
 ---
 
 ### 📈 Mis estadísticas de GitHub
+[![Jared's GitHub stats](https://github-readme-stats-mf1m1h35d-jared-mijails-projects.vercel.app/api?username=JaredMijailRE&show_icons=true&theme=radical)](https://github.com/JaredMijailRE)
 
-[![Jared's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaredMijailRE&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-mf1m1h35d-jared-mijails-projects.vercel.app/api/top-langs/?username=JaredMijailRE&layout=compact&theme=radical)](https://github.com/JaredMijailRE)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaredMijailRE&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
