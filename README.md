@@ -19,11 +19,8 @@
 ---
 
 ### 📈 Mis estadísticas de GitHub
-[![Jared's GitHub stats](https://github-readme-stats-mf1m1h35d-jared-mijails-projects.vercel.app/api?username=JaredMijailRE&show_icons=true&theme=radical)](https://github-readme-stats-mf1m1h35d-jared-mijails-projects.vercel.app/api?username=JaredMijailRE&show_icons=true&theme=radical)
+[![Jared's GitHub stats](https://github-readme-stats-mf1m1h35d-jared-mijails-projects.vercel.app/api?username=JaredMijailRE&show_icons=true&theme=radical&include_all_commits=true&include_orgs=true)](https://github-readme-stats-mf1m1h35d-jared-mijails-projects.vercel.app/api?username=JaredMijailRE&show_icons=true&theme=radical&include_all_commits=true&include_orgs=true) [![Top Langs](https://github-readme-stats-mf1m1h35d-jared-mijails-projects.vercel.app/api/top-langs/?username=JaredMijailRE&layout=compact&theme=radical&count_private=true&include_orgs=true)](https://github-readme-stats-mf1m1h35d-jared-mijails-projects.vercel.app/api/top-langs/?username=JaredMijailRE&layout=compact&theme=radical&count_private=true&include_orgs=true)
 
-<br>
-
-[![Top Langs](https://github-readme-stats-mf1m1h35d-jared-mijails-projects.vercel.app/api/top-langs/?username=JaredMijailRE&layout=compact&theme=radical)](https://github-readme-stats-mf1m1h35d-jared-mijails-projects.vercel.app/api/top-langs/?username=JaredMijailRE&layout=compact&theme=radical)
 
 
 
